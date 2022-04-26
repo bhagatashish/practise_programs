@@ -8,6 +8,7 @@ class Reverse:
         list= []
         list3=[]
         for i in a :
+            print[i]
             
             
             name= a[j]
