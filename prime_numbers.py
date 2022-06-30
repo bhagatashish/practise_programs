@@ -5,7 +5,6 @@ Created on Jul 2, 2019
 '''
 #:Java Program to Find the Largest Two Numbers in a Given Array
 list = [12,23,1,2,8,40,55]
-list1 = []
 
 largest_num = list[0]
 # first way to get largest num
